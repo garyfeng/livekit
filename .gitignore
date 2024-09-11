@@ -19,6 +19,7 @@ livekit-server
 # vendor/
 bin/
 proto/
+venv/
 
 # Mac
 .DS_Store
@@ -27,3 +28,5 @@ proto/
 .idea/
 
 dist/
+
+.env
